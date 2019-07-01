@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561946642 source:c:\users\wilbe\onedrive\desktop\15 ejercicios 1 parcial\ejercicio13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
